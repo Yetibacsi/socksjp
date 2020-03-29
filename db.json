@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 9,
+      "brand": "hello",
+      "color": "orange",
+      "stock": "43",
+      "store": "false"
     }
   ],
   "profile": {
