@@ -1,10 +1,45 @@
 {
   "socks": [
     {
-      "id": 9,
-      "brand": "hello",
+      "id": 6,
+      "brand": "wellhello",
       "color": "orange",
       "stock": "43",
+      "store": "false"
+    },
+    {
+      "id": 7,
+      "brand": "TNYVPS",
+      "color": "red",
+      "stock": "21",
+      "store": "true"
+    },
+    {
+      "id": 8,
+      "brand": "buFu",
+      "color": "green",
+      "stock": "2",
+      "store": "true"
+    },
+    {
+      "id": 9,
+      "brand": "BMH",
+      "color": "purple",
+      "stock": "54",
+      "store": "false"
+    },
+    {
+      "id": 10,
+      "brand": "pro-vag",
+      "color": "indigo",
+      "stock": "68",
+      "store": "false"
+    },
+    {
+      "id": 11,
+      "brand": "NINE",
+      "color": "blue",
+      "stock": "7",
       "store": "false"
     }
   ],
