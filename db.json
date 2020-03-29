@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "socks": [
     {
       "id": 9,
       "brand": "hello",
@@ -9,6 +9,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "bloasdf"
   }
 }
